@@ -21,11 +21,11 @@
       "points": 35
     },
     {
-      "name": "test5",
+      "name": "test3",
       "setup": "make compile",
       "run": "make run",
       "input": "1\r\n-2\r\n1\r\n",
-      "output": "Encontrar raices de un polinomio ax^2 + bx + c = 0 con la fórmula general\r\n======================\r\nIntroduce el valor de a:Introduce el valor de b:Introduce el valor de c:X1=1.0\r\nX2=1.0\r\n",
+      "output": "Encontrar raices de un polinomio ax^2 + bx + c = 0 con la formula general\r\n======================\r\nIntroduce el valor de a:Introduce el valor de b:Introduce el valor de c:X1=1.0\r\nX2=1.0\r\n",
       "comparison": "included",
       "timeout": 10,
       "points": 30
